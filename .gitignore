@@ -11,4 +11,4 @@ node_modules/
 *.class
 *.jar
 
-*.test.js
+test.js
